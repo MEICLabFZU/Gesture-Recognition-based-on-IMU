@@ -1,7 +1,7 @@
 # Gesture Recognition Based on Inertial Measurement Unit Sensors
 
  ## **It is an ongoing project.**
- ### Join-design with Verimake Research, Nanjing Qujike Info-tech Co., Ltd.
+ ### Join-design with [Verimake Research](https://github.com/verimake-team), Nanjing Qujike Info-tech Co., Ltd.
 <pre>
 __     __        _                 _        
 \ \   / /__ _ __(_)_ __ ___   __ _| | _____ 
