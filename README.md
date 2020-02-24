@@ -12,7 +12,7 @@ __     __        _                 _
  
  
  
-The project applying for a patent, we will upload our project's code later
+The project is applying for a patent, we will upload our project's code later
 ![markdown](https://github.com/MEICLabFZU/Gesture-Recognition-based-on-IMU/blob/master/pic/The_overview_of_the_IMU_glove.png?raw=true)
 
 ![markdown](https://github.com/MEICLabFZU/Gesture-Recognition-based-on-IMU/blob/master/pic/Chinese_number_gesture.png?raw=true)
