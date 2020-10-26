@@ -6,4 +6,4 @@ Original data can be found at https://github.com/MEICLabFZU/Gesture-Recognition-
 
 ### Update:
 
-The training with supplementary data is updated in SIGN_REG-with_new_data.ipynb. It also changed slightly on CNN layers, that dropout layer is removed.
+The training with supplementary data is updated in SIGN_REG-with_new_data.ipynb. It was also changed slightly on CNN layers that the dropout layer is removed.
